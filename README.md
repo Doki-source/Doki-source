@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔️Soy un developer front-end junior💻<br>✔️Estoy en busqueda de algun empleo no tan exigente📞<br>✔️Puedo ayudar mucho en CSS🤝<br>✔️Mientras voy programando estoy aprendiendo :)🎓
+✔️Soy un developer front-end junior💻<br>✔️Persona Free-Lancer📞<br>✔️Puedo ayudar mucho en CSS🤝<br>✔️Mientras voy programando estoy aprendiendo :)🎓
 
 
 ## 🌐 Socials:
