@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔️Developer front-end <br>✔️Free-Lancer📞<br><br>
+✔️Desarrollador frontend<br>✔️Free Lance<br><br>
 
 
 ## 🌐 Socials:
