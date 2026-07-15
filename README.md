@@ -1,5 +1,4 @@
-# 💫 About Me:
-✔️Desarrollador frontend<br>✔️Free Lance<br><br>
+
 
 
 ## 🌐 Socials:
